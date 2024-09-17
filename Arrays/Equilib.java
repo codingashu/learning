@@ -1,5 +1,4 @@
-import java.util.* ;
-import java.io.*; 
+
 public class Equilib {
 
 	public static int arrayEquilibriumIndex(int[] arr){  
